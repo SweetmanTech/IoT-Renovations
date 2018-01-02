@@ -1,4 +1,4 @@
-LIVE:
+LIVE: https://sweetmantech.github.io/IoT-Renovations/
 # IoT Renovations
 We upgrade homes by designing rooms that are more connected and help us live happier and easier
 
